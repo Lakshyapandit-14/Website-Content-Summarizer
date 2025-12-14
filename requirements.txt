@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+beautifulsoup4
+lxml
+openai
+transformers
+torch
+python-multipart
+pydantic
