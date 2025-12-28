@@ -8,7 +8,7 @@ st.set_page_config(page_title="Website Summarizer Agent", layout="wide")
 st.title("🌐 Website Content Summarizer (LangGraph Agent)")
 
 st.markdown("""
-Paste any website URL below, and the LangGraph Agent will be :
+Paste any website URL below, and the LangGraph Agent will  :
 1. Fetch the page  
 2. Extract meaningful text  
 3. Chunk it  
